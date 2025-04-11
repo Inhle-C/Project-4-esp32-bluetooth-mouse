@@ -104,11 +104,10 @@ DOWN RIGHT
 - Explore battery-powered wireless operation
 
 ## License
-
 This project is for educational purposes.
 
 Previous Project: [ESP32 Display and Sensor Integration](https://github.com/Inhle-C/Project-3-esp32-display-sensor)  
 (Part 3 of the series)
 
-Next Project: ESP32 Sensor Data Logger 🔗  
+Next Project: [ESP32 Sensor Data Logger](https://github.com/Inhle-C/Project-5-esp32-morse-led) 🔗  
 (To be uploaded as Part 5 of the series)
